@@ -1,4 +1,4 @@
-# Hi, I'm Facundo 👋
+# Hi, I'm Facundo 
 
 💻 Systems Analyst  
 🎓 Final-year Systems Engineering Student  
@@ -8,7 +8,7 @@ I enjoy building modern, scalable and maintainable web applications focused on p
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
@@ -55,14 +55,16 @@ I enjoy building modern, scalable and maintainable web applications focused on p
 
 ---
 
-## 📊 GitHub Stats
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-garcia-brunetti-3828b4264/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](facundobrunetti99@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU-USUARIO)
 
 ![Facundo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact)
 
-## 📫 Contact
 
-- LinkedIn: `https://www.linkedin.com/in/facundo-garcia-brunetti-3828b4264/`
-- Email: `facundobrunetti99@gmail.com`
-- Portfolio: `your-portfolio-url`
