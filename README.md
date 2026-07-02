@@ -1,14 +1,14 @@
-# Hi, I'm Facundo 
+# Hola, soy Facundo
 
-💻 Systems Analyst  
-🎓 Final-year Systems Engineering Student  
-🚀 Full Stack Developer  
+💻 Analista de Sistemas
+🎓 Estudiante de último año de Ingeniería en Sistemas
+🚀 Desarrollador Full Stack
 
-I enjoy building modern, scalable and maintainable web applications focused on performance, clean code and user experience.
+Me gusta construir aplicaciones web modernas, escalables y mantenibles, enfocadas en el rendimiento, el código limpio y la experiencia de usuario.
 
 ---
 
-## Tech Stack
+## Tecnologías
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
@@ -26,41 +26,42 @@ I enjoy building modern, scalable and maintainable web applications focused on p
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mí
 
-- 🎓 Final-year Systems Engineering student
-- 💻 Systems Analyst
-- 🚀 Passionate about Full Stack Development
-- 📚 Constantly learning new technologies and software architectures
-- ⚡ Focused on scalable and maintainable applications
-
----
-
-## 📌 Interests
-
-- Web Development
-- Backend APIs
-- Software Architecture
-- SaaS Applications
-- Databases
-- Cloud Technologies
+* 🎓 Estudiante de último año de Ingeniería en Sistemas
+* 💻 Analista de Sistemas
+* 🚀 Apasionado por el desarrollo Full Stack
+* 📚 En constante aprendizaje de nuevas tecnologías y arquitecturas de software
+* ⚡ Enfocado en crear aplicaciones escalables, mantenibles y eficientes
 
 ---
 
-## 📫 Contact
+## 📌 Intereses
 
-- LinkedIn: your-linkedin
-- Email: your-email
-- Portfolio: your-portfolio
+* Desarrollo Web
+* APIs Backend
+* Arquitectura de Software
+* Aplicaciones SaaS
+* Bases de Datos
+* Tecnologías Cloud
 
 ---
 
-## Contact
+## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-garcia-brunetti-3828b4264/)
+* LinkedIn: https://www.linkedin.com/in/facundo-garcia-brunetti
+* Email: [facundobrunetti99@gmail.com](mailto:facundobrunetti99@gmail.com)
+* Portfolio: tu-portfolio
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](facundobrunetti99@gmail.com)
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU-USUARIO)
+## Contacto rápido
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/facundo-garcia-brunetti-3828b4264/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:facundobrunetti99@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/TU-USUARIO)
+
 
 
