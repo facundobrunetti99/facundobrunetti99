@@ -49,7 +49,7 @@ Me gusta construir aplicaciones web modernas, escalables y mantenibles, enfocada
 
 ## 📫 Contacto
 
-* LinkedIn: https://www.linkedin.com/in/facundo-garcia-brunetti
+* LinkedIn: https://www.linkedin.com/in/brunettifacundo
 * Email: [facundobrunetti99@gmail.com](mailto:facundobrunetti99@gmail.com)
 * Portfolio: tu-portfolio
 
